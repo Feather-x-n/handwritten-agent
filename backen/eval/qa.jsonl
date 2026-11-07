@@ -1,0 +1,22 @@
+{"question": "出差住宿一晚最多能报销多少？", "source": "报销制度.md", "index": 2}
+{"question": "报销单审核通过后多久打款？", "source": "报销制度.md", "index": 7}
+{"question": "出差可以坐公务舱吗？", "source": "报销制度.md", "index": 3}
+{"question": "发票丢了还能报销吗？", "source": "报销制度.md", "index": 10}
+{"question": "年假没休完能留到明年吗？", "source": "请假制度.md", "index": 2}
+{"question": "请病假需要什么证明材料？", "source": "请假制度.md", "index": 3}
+{"question": "婚假有几天？", "source": "请假制度.md", "index": 5}
+{"question": "请假超过 7 天由谁审批？", "source": "请假制度.md", "index": 7}
+{"question": "发票怎么开？", "source": "产品FAQ.md", "index": 5}
+{"question": "API 被限流返回 429 怎么办？", "source": "产品FAQ.md", "index": 7}
+{"question": "专业版一个月多少钱？", "source": "产品FAQ.md", "index": 3}
+{"question": "最多能导出多少行数据？", "source": "产品FAQ.md", "index": 6}
+{"question": "入职要带哪些材料？", "source": "新员工入职指南.md", "index": 1}
+{"question": "忘记打卡怎么补？", "source": "新员工入职指南.md", "index": 4}
+{"question": "试用期是多久？", "source": "新员工入职指南.md", "index": 5}
+{"question": "转正要走什么流程？", "source": "新员工入职指南.md", "index": 7}
+{"question": "发布失败怎么回滚？", "source": "部署与运维笔记.md", "index": 5}
+{"question": "5xx 比例多少会触发告警？", "source": "部署与运维笔记.md", "index": 7}
+{"question": "数据库备份保留几天？", "source": "部署与运维笔记.md", "index": 8}
+{"question": "生产环境能开 debug 吗？", "source": "部署与运维笔记.md", "index": 10}
+{"question": "公司食堂几点开饭？", "expect_none": true}
+{"question": "公司有没有健身房？", "expect_none": true}

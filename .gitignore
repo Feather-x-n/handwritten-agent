@@ -1,0 +1,26 @@
+# 环境变量（只提交示例文件）
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# 运行时产物
+backen/data/
+backen/traces/
+backen/workspace/reports/
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# 前端
+node_modules/
+dist/
+dist-ssr/
+*.local
